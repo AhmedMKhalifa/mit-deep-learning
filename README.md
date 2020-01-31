@@ -52,3 +52,7 @@ Links: \[ [GitHub](https://github.com/lexfridman/deeptraffic) \] \[ [Website](ht
 - [Aishni Parab](https://www.mit.edu/~aishni/)
 - [Dina AlAdawy](https://www.mit.edu/~aladawy/)
 - [Henri Schmidt](https://www.mit.edu/~henris/)
+
+
+
+https://deeplearning.mit.edu/?fbclid=IwAR3HF6c9hGnMtrM9kLlrL5qRGKjBJExrRWomMQFOecH1Ft4o2q26KHP_jS8
